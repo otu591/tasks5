@@ -1,0 +1,13 @@
+{
+  "autoload":{
+    "psr-4":{
+      "tasks\\": "vendor/tasks/core",
+      "app\\": "app"
+    }
+  },
+  "require":{
+    "gabordemooij/redbean": "v5.2",
+    "twbs/bootstrap": "4.0.0-alpha.6",
+    "twbs/bootstrap-sass": "3.4.x-dev"
+  }
+}

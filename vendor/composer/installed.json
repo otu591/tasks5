@@ -1,0 +1,153 @@
+[
+    {
+        "name": "gabordemooij/redbean",
+        "version": "v5.2",
+        "version_normalized": "5.2.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/gabordemooij/redbean.git",
+            "reference": "4ec3ee400bfbe4c52da4a376de9a6c338b5a8819"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/gabordemooij/redbean/zipball/4ec3ee400bfbe4c52da4a376de9a6c338b5a8819",
+            "reference": "4ec3ee400bfbe4c52da4a376de9a6c338b5a8819",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.4"
+        },
+        "time": "2018-10-26T09:06:03+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "RedBeanPHP\\": "RedBeanPHP"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Gabor de Mooij",
+                "email": "gabor@redbeanphp.com",
+                "homepage": "https://redbeanphp.com"
+            }
+        ],
+        "description": "RedBeanPHP ORM",
+        "homepage": "https://redbeanphp.com/",
+        "keywords": [
+            "orm"
+        ]
+    },
+    {
+        "name": "twbs/bootstrap",
+        "version": "4.0.0-alpha.6",
+        "version_normalized": "4.0.0.0-alpha6",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/twbs/bootstrap.git",
+            "reference": "65ffb1c3b6e94440812a2e228cb8e8be512652ec"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/twbs/bootstrap/zipball/65ffb1c3b6e94440812a2e228cb8e8be512652ec",
+            "reference": "65ffb1c3b6e94440812a2e228cb8e8be512652ec",
+            "shasum": ""
+        },
+        "replace": {
+            "twitter/bootstrap": "self.version"
+        },
+        "time": "2017-01-06T16:41:52+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.3.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Jacob Thornton",
+                "email": "jacobthornton@gmail.com"
+            },
+            {
+                "name": "Mark Otto",
+                "email": "markdotto@gmail.com"
+            }
+        ],
+        "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+        "homepage": "https://getbootstrap.com",
+        "keywords": [
+            "JS",
+            "css",
+            "framework",
+            "front-end",
+            "mobile-first",
+            "responsive",
+            "sass",
+            "web"
+        ]
+    },
+    {
+        "name": "twbs/bootstrap-sass",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/twbs/bootstrap-sass.git",
+            "reference": "b34765d8a6aa775816c59012b2d6b30c4c66a8e9"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/twbs/bootstrap-sass/zipball/b34765d8a6aa775816c59012b2d6b30c4c66a8e9",
+            "reference": "b34765d8a6aa775816c59012b2d6b30c4c66a8e9",
+            "shasum": ""
+        },
+        "time": "2019-02-13T18:58:58+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.4.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Mark Otto"
+            },
+            {
+                "name": "Thomas McDonald"
+            },
+            {
+                "name": "Tristan Harward"
+            },
+            {
+                "name": "Peter Gumeson"
+            },
+            {
+                "name": "Gleb Mazovetskiy"
+            },
+            {
+                "name": "Jacob Thornton"
+            }
+        ],
+        "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+        "homepage": "http://github.com/twbs/bootstrap-sass",
+        "keywords": [
+            "bootstrap",
+            "css",
+            "sass"
+        ]
+    }
+]
